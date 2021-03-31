@@ -1,0 +1,15 @@
+ body{
+     background-color:antiquewhite;
+ }
+ #stella{
+    text-align: center;
+    
+}
+#image{
+    text-align: center;
+}
+#project{
+    text-align: center;
+    justify-content: center;
+    font-size: medium;
+}
