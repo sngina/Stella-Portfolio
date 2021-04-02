@@ -1,5 +1,6 @@
  body{
       background-color:antiquewhite;
+      font-size: 24px;
  }
  #stella{
     text-align: center;
@@ -28,4 +29,10 @@
     font-family: sans-serif;
     font-size: large;
     float: left;
+}
+#arts{
+    text-align:center;
+    justify-content:center;
+    text-transform:capitalize;
+    
 }
