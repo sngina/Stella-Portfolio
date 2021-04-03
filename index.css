@@ -36,7 +36,10 @@
     align-items: center;
     width: 50%;
     margin: 30px 25% 0 25%;
-
-
     
+}
+#contact{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
