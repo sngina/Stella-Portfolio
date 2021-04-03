@@ -25,16 +25,18 @@
     text-align:center;
     justify-content: center;
 }
-#hobbies{
-    text-align: center;
-    font-family: sans-serif;
-    font-size: large;
-    float: left;
-}
+
+    
 #arts{
-    text-align:center;
-    justify-content:center;
+    text-align:left;
+    justify-content:space-evenly;
     text-transform:capitalize;
-    float:initial;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    width: 50%;
+    margin: 30px 25% 0 25%;
+
+
     
 }
