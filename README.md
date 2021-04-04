@@ -1,4 +1,5 @@
 Stella Portfolio
+
 This a site that contains my portfolio that has some of my details like my background details 
 education details.Also has links of some of my projects that i've worked on.
 
