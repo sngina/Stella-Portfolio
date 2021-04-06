@@ -5,11 +5,12 @@
 This is a portfolio that has  background information and education information about Stella and some of her hobbies.
 ## Setup/Installation Requirements
 * Clone the repo https://sngina.github.io/Stella-Portfolio/
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+
+
+
 ## Live link
 https://sngina.github.io/Stella-Portfolio/
 ## Known Bugs
